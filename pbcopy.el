@@ -2,6 +2,11 @@
 
 ;; Copyright (C) 2011 Daniel Nelson, based on xclip.el, by Leo Shidai Liu
 
+;; Author: Daniel Nelson
+;; URL: https://github.com/jkp/pbcopy.el
+;; Package-Version: 0.1.0
+;; Keywords: mac, osx, pbcopy
+
 ;; This file is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
 ;; the Free Software Foundation; either version 3, or (at your option)
@@ -113,3 +118,4 @@ See `x-set-selection'."
 
 
 (provide 'pbcopy)
+;;; pbcopy.el ends here
